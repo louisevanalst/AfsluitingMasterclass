@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */5 * * * *"
+    },
+    {
+      "name": "$return",
+      "apiKey": "SendGridApiKey",
+      "to": "louise.van.alst@harvest.nl",
+      "from": "louise.van.alst@harvest.nl",
+      "subject": "Daily Update",
+      "direction": "out",
+      "type": "sendGrid"
+    }
+  ]
+}
