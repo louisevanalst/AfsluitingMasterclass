@@ -1,4 +1,4 @@
-#Opdracht 2 Maak een Azure Sandbox aan en ga naar de azure portal
+# Opdracht 2 Maak een Azure Sandbox aan en ga naar de azure portal
 
 ## Maak een Sandbox aan
 1. Ga naar https://learn.microsoft.com/en-us/training/modules/execute-azure-function-with-triggers/4-create-timer-trigger?pivots=csharp&source=learn
