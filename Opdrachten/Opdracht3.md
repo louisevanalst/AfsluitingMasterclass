@@ -35,8 +35,9 @@
 13. Klik op Create
 14. Je krijgt nu een scherm met je functie te zien. Ga naar het tabje Code en Test (linksboven)
 15. Je kan 3 verschillende files selecteren in de dropdown: run.csx, function.json en readme.md.
-16. Ga naar de AzureFunctionFiles folder in deze repo en kopieer en plak **en save (linksboven)** de run.csx en function.json files in de azure portal.
-17. Binnen 5 minuten zou je een email op je harvest account moeten ontvangen.
+16. Ga naar de AzureFunctionFiles folder in deze repo, en vul in function.json bij "from" en "to" twee keer je eigen harvest email in.
+17. Kopieer en plak **en save (linksboven)** de run.csx en function.json files in de azure portal.
+18. Binnen 5 minuten zou je een email op je harvest account moeten ontvangen.
 
 ## Stop/Pauzeer de Azure function app zodat je niet continu emails ontvangt
 18. Zoek in de zoekbalk midden bovenin de portal naar je function app.
