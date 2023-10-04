@@ -9,8 +9,8 @@
     {
       "name": "$return",
       "apiKey": "SendGridApiKey",
-      "to": "louise.van.alst@harvest.nl",
-      "from": "louise.van.alst@harvest.nl",
+      "to": "",
+      "from": "",
       "subject": "Daily Update",
       "direction": "out",
       "type": "sendGrid"
